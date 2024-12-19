@@ -10,6 +10,6 @@ This project uses a CNN model to convert sign language gestures into text or spe
 ## Setup
 1. Clone the repository:
 ```
-   git clone https://github.com/your_username/sign-language-to-text.git
+   git clone https://github.com/sameersharma1122/sign-language-to-text.git
    cd sign-language-to-text
 ```
